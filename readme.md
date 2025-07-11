@@ -115,3 +115,7 @@ Identifying vendors with low inventory turnover enables better stock management,
 - Enhance marketing and distribution strategies for low-performing vendors to drive higher sales volumes without compromising profit margins.
 
 - By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks, and enhance overall operational efficiency.
+
+# **Dashboard**:
+
+![Dashboard](/images/Screenshot%202025-07-11%20145512.png)
